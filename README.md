@@ -23,3 +23,27 @@ Used Telnet to test:
 The connection failed, confirming the block.
 
 
+### 6. Removed the Test Rule
+Deleted the Telnet block rule to restore the original firewall configuration.
+
+### 7. Documented Steps Used
+Recorded GUI steps on Windows and commands on Linux.
+
+### 8. Summary of Firewall Filtering
+A firewall filters traffic based on rules. It checks each packet and either allows or blocks it depending on defined policies.
+
+---
+
+## Key Concepts
+- Firewall rules  
+- Inbound vs outbound traffic  
+- Port blocking  
+- UFW / Windows Firewall  
+- Traffic filtering  
+
+---
+
+## Conclusion
+This exercise provided hands-on experience with firewall management and taught how ports and traffic can be controlled to secure a system. I learned how to create, test, and remove rules, and gained a deeper understanding of network protection.
+
+
